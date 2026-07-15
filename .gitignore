@@ -1,0 +1,17 @@
+node_modules/
+.next/
+dist/
+.DS_Store
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/*.tgz
+package-lock.json
+.pnp.*
+.vscode-test/
